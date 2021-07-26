@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sujal509
-- 👀 I’m interested in Coding with C++,Developming Addons For Minecraft Bedrock
+- 👀 I’m interested in Coding with C++,Phyton
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Sujal509/Sujal509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
